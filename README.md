@@ -76,6 +76,14 @@ No importa si eres un lector empedernido o apenas comienzas tu aventura literari
 
 ---
 
+## 📬 Contáctanos
+
+¿Tienes dudas, sugerencias o quieres hacer un pedido personalizado?  
+Estamos para ayudarte:
+
+[![Contacto por correo](https://img.shields.io/badge/Escríbenos-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@eltunel.com)
+
+
 
 > 📌 ¿Te gusta este proyecto? No olvides darle ⭐️ y seguir nuestras actualizaciones.
 
